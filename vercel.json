@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://www.securityguardpatrol.com/$1"
+ }
+  ]
+}
